@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">BaruKill</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">BaruKiller</string>
+    <string name="kill_selected_apps">Kill Selected Apps</string>
+    <string name="process_count">proc: </string>
+    <string name="service_count">serv: </string>
+
+</resources>
